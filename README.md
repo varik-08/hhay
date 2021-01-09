@@ -1,6 +1,5 @@
 # HHAY
 
 ## Tech stack
-backend: GO, PostgreSQL, JWT, NGINX, DOCKER
+backend: Node JS, PostgreSQL, JWT, NGINX, DOCKER
 frontend: BEM, Prettier, ESlint, gulp, Angular, RxJS
-
